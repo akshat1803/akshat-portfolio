@@ -54,6 +54,7 @@ const projects: Project[] = [
       { value: "CI/CD", label: "automated deployment" },
     ],
     stack: ["React", "TypeScript", "Node.js", "MongoDB", "Docker", "Trello API"],
+    url: "https://fullstacklearning.com",
     theme: "orange",
   },
 ];
@@ -232,3 +233,4 @@ function App() {
 }
 
 export default App;
+
